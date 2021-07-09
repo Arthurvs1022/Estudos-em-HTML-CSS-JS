@@ -1,6 +1,7 @@
 @charset "UTF-8";
 /*
    em HTML é id = em CSS é # 
+   em HTML é class = em CSS é .
 */
 body {
     background-color: aqua;
@@ -9,6 +10,8 @@ body {
 }
 h1#principal {
     text-align: center;
+    background-color: brown;
+    color: white;
 }
 h1 {
     color: rgb(0, 0, 150);
