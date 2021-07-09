@@ -19,7 +19,16 @@ h1 {
 h2 {
     color: rgb(0, 89, 223);
 }
-
+.basico {
+    color: green;
+    font-weight: bold;
+}
+.intermediario {
+    color: yellow;
+}
+.avancado {
+    color: rebeccapurple;
+}
 p{
     text-align: justify;
     
